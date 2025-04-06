@@ -1,0 +1,54 @@
+Waterfall methodology
+    1. https://www.canva.com/design/DAGgFc57pgY/r9CcZWaFYPLDdH5QUUGjrg/edit
+    2. https://docs.google.com/presentation/d/11vVSGF6GaeZ8fkQXCtTJXl3slZCZNBkI/edit?usp=sharing&ouid=112249238408089466675&rtpof=true&sd=true
+
+
+Lean methodology
+    1. https://www.canva.com/design/DAGgOgU759k/lj3q4afboUafImKH9dTXGQ/edit
+    2. https://1drv.ms/p/s!AjbPmbyLqIk5keE_ct9TzcM05umC2A?e=IIOXdU
+
+
+DevOps 
+    1. https://www.canva.com/design/DAGgO2TYzCg/XRV8dfVMvGnn9niB-zvT2w/edit
+    2. https://1drv.ms/p/s!AjbPmbyLqIk5keFBxmaWx9rNoIOsTA?e=Oq0k2a
+
+
+Spiral
+    1. https://www.canva.com/design/DAGgOTpiJB8/JJcwxicvOiG5UQxLMJx4Yw/edit
+    2. https://docs.google.com/presentation/d/1NrtrDWGhMZeZwnTA8KF1TD0Un_QqXZqUBpXvAt_IBH8/edit?usp=sharing
+
+
+Agile
+    1. https://docs.google.com/presentation/d/1_ztHPYraC31gMmj4HDjK-S29COWmR2bVZ-q-YaYehj4/edit?usp=sharing
+    2. https://www.canva.com/design/DAGgOPie5lY/ju3A3ihfMoWenA-lwkx2mA/edit
+
+
+Scrum
+    1. https://docs.google.com/presentation/d/1BIhkCu-9tknjmDT1Z5wpAkHsFTkq_tFJ08VkeYzOqYo/edit?usp=sharing
+    2. https://www.canva.com/design/DAGgRcXw4Uk/pTSVmt3kzdGSSlqfoy30xg/edit?utm_content=DAGgRcXw4Uk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+Extreme Programming
+    1. https://www.canva.com/design/DAGgMjGPyUE/2l7ccuIfJXUydGjCgl1Jtw/view?utm_content=DAGgMjGPyUE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1e7a59e137
+
+
+JAD
+    1. https://docs.google.com/presentation/d/1gggWx9fNtHMkGOxrzv_VHCqFnwmqsxt1/edit#slide=id.p1
+
+
+Prototyping
+    1. https://docs.google.com/presentation/d/1QBkttoXHgvxymiglkKTrUQFhr2KdhI9fi0WHqQ3EbWg/edit#slide=id.g33a6ccf1c99_2_75
+    2. https://docs.google.com/presentation/d/1dzqtfvre55tjqSQ41AG85F0igRvS0bM9rPmSkj9uNXc/edit?usp=sharing
+
+
+Feature Driven Development
+    1. https://docs.google.com/presentation/d/1DyqggbKx5xYIoIgT57-ii3AkvPCYf3BRGdcZJs-bCcE/edit?usp=sharing
+
+
+RAD
+    1. https://docs.google.com/presentation/d/1VaZsi_bccWwTocn86q5qq8RMmwSEXSE3/edit#slide=id.p1
+
+
+
+
+
